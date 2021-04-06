@@ -36,7 +36,7 @@
 
 Published:
 
-- <a href="https://pdfs.semanticscholar.org/aa81/9b22413045b197d986477972c3fb2b9d4b9a.pdf?_ga=2.82924052.361578357.1567611794-1314844753.1567611793"> </a> ICALP 2019
+- <a href="https://pdfs.semanticscholar.org/aa81/9b22413045b197d986477972c3fb2b9d4b9a.pdf?_ga=2.82924052.361578357.1567611794-1314844753.1567611793"> Toward a Dichotomy for Approximation of H-Coloring </a> ICALP 2019
 
 Submitted:
 - <a href="https://www.amia.org/amia2021">A Fusion NLP Model for the Inference of Standardized Thyroid Nodule Malignancy Scores from Radiology Report Text</a>

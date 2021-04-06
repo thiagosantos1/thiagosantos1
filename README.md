@@ -1,7 +1,7 @@
 ### Hi there, I'm Thiago Santos 👋
 
 [![Website](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/thiagosantos-cs/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tsantos_maia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthiagosantos1&screen_name=thiagosantos1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tsantos_maia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftsantos_maia&screen_name=tsantos_maia)
 
 ## I'm a PhD Student on Biomedical Informatics Track at Emory University
 

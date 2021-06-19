@@ -6,7 +6,7 @@
 ## I'm a Computer Science PhD Student on Biomedical Informatics Track at Emory University
 
 - 🔭 I’m currently trying to build better Biomedical Language Models  
-- ⌛ My work interest is on the intersection of Radiology and Pathology workflow
+- ⌛ My work interest is on temporal information extraction from multiple medical sources (clinical notes, reports, lab results, and many others)
 - 👯 I’m looking to collaborate with other PhD students/Researchers who work on similar topics
 - ⚡ Fun facts: I love video games 🎮, biking 🚲, soccer ⚽, cooking 🍜 and a scotch whisky 🥃
 

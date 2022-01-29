@@ -36,9 +36,24 @@
 
 Published:
 
-- <a href="https://www.amia.org/amia2021">A Fusion NLP Model for the Inference of Standardized Thyroid Nodule Malignancy Scores from Radiology Report Text</a> AMIA 2021
+- <a href="https://arxiv.org/">Thiago Santos, Rishav Dhar, Amara Tariq, Elizabeth Anne Krupinski, Erin E Grady, and Imon Banerjee. "An  Auto-mated  NLP  Tool  to  Rank  Applications  for  Diagnostic  Radiology  Residency:  Utility  for  Understanding  Elements  Associatedwith Selection for Interview" </a> Under Revision
 
-- <a href="https://pdfs.semanticscholar.org/aa81/9b22413045b197d986477972c3fb2b9d4b9a.pdf?_ga=2.82924052.361578357.1567611794-1314844753.1567611793"> Toward a Dichotomy for Approximation of H-Coloring </a> ICALP 2019
+
+- <a href="https://arxiv.org/">Thiago Santos "A deep hierarquical framework for automatic extraction of cancer diagnosis and severity " </a> Work In Progress
+
+
+- <a href="https://arxiv.org/">Thiago Santos "An end-to-end Multi-Task BER for automatic extraction of cancer diagnosis and severity " </a> Work In Progress
+
+
+- <a href="https://www.amia.org/amia2021">Thiago Santos, Omar Kallas, Janice Newsome, Daniel Rubin,Judy Gichoya,and Imon Banerjee."A Fusion NLP Modelfor the Inference of Standardized Thyroid Nodule Malignancy Scores from Radiology Report Text" </a> American Medical Informatics Association (AMIA) Annual Symposium (2021)
+
+- <a href="https://pdfs.semanticscholar.org/aa81/9b22413045b197d986477972c3fb2b9d4b9a.pdf?_ga=2.82924052.361578357.1567611794-1314844753.1567611793"> Akbar  R.,  Arash  R.,  and Thiago  Santos. "Toward  a  Dichotomy  for  Approximation  of  H-Coloring" </a> ICALP 2019
+
+Book Chapters:
+
+- <a href="https://www.springernature.com/"> Amara  Tariq,Thiago  Santos,  and  Imon  Banerjee. "A  Survey  of  Natural  Language  Processing  Methods  and  Tools  in Cardiology" </a> Artificial Intelligence in Cardiothoracic Imaging, Spring Nature (2021)
+
+- <a href="https://www.springernature.com/">  Susmita  Das,  Amara  Tariq,Thiago  Santos,  Sai  Sandeep  Kantareddy,  and  Imon  Banerjee. "Recurrent  neural  networks(RNN)  -  architectures,  training  tricks  and  introduction  to  influential  research" </a> To  appear  in  O.  Colliot  (Ed.),Machine Learning for Brain Disorders, Springer (2022)
 
 
 ---

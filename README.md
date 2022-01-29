@@ -42,7 +42,7 @@ Published:
 - <a href="https://arxiv.org/">Thiago Santos "A deep hierarquical framework for automatic extraction of cancer diagnosis and severity " </a> Work In Progress
 
 
-- <a href="https://arxiv.org/">Thiago Santos "An end-to-end Multi-Task BER for automatic extraction of cancer diagnosis and severity " </a> Work In Progress
+- <a href="https://arxiv.org/">Thiago Santos "An end-to-end Multi-Task BERT for automatic extraction of cancer diagnosis and severity " </a> Work In Progress
 
 
 - <a href="https://www.amia.org/amia2021">Thiago Santos, Omar Kallas, Janice Newsome, Daniel Rubin,Judy Gichoya,and Imon Banerjee."A Fusion NLP Modelfor the Inference of Standardized Thyroid Nodule Malignancy Scores from Radiology Report Text" </a> American Medical Informatics Association (AMIA) Annual Symposium (2021)

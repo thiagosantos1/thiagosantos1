@@ -5,8 +5,8 @@
 
 ## I'm a Computer Science PhD Student on Biomedical Informatics Track at Emory University
 
-- 🔭 I’m currently trying to build better Information Extraction Models  
-- ⌛ My work interest is on temporal information extraction from multiple medical sources (clinical notes, reports, lab results, and many others)
+- 🔭 I am currently working on the intersection of multi-model and multi-data, as well as how to integrate them together in order to improve information extraction from heterogeneous medical records.
+- ⌛ My work interest is on information extraction from heterogeneous medical sources (pathology reports, clinical notes, radiology reports, lab results, and many others)
 - 👯 I’m looking to collaborate with other PhD students/Researchers who work on similar topics
 - ⚡ Fun facts: I love video games 🎮, biking 🚲, soccer ⚽, cooking 🍜 and a scotch whisky 🥃
 

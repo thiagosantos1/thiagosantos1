@@ -32,6 +32,8 @@
 
 ---
 
+![snake gif](https://github.com/thiagosantos1/thiagosantos1/blob/output/github-contribution-grid-snake.gif)
+
 ### 👨🏻‍🔬 Scientific Publications
 
 Published:

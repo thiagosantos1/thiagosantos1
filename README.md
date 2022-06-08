@@ -3,11 +3,10 @@
 [![Website](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/thiagosantos-cs/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tsantos_maia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftsantos_maia&screen_name=tsantos_maia)
 
-## I'm a Computer Science PhD Student on Biomedical Informatics Track at Emory University
+## I am a Artificial Intelligence Engineer at Mendel AI
 
 - 🔭 I am currently working on the intersection of multi-model and multi-data, as well as how to integrate them together in order to improve information extraction from heterogeneous medical records.
 - ⌛ My work interest is on information extraction from heterogeneous medical sources (pathology reports, clinical notes, radiology reports, lab results, and many others)
-- 👯 I’m looking to collaborate with other PhD students/Researchers who work on similar topics
 - ⚡ Fun facts: I love video games 🎮, biking 🚲, soccer ⚽, cooking 🍜 and a scotch whisky 🥃
 
 <br />

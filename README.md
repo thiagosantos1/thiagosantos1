@@ -37,6 +37,10 @@
 
 Published:
 
+- <a href="https://www.amia.org/amia2022">Thiago Santos, Amara Tariq, Susmita Das, Kavyasree Vayalpati, Geoffrey H. Smith,  Hari Trivedi, and Imon Banerjee. "PathologyBERT - Pre-trained Vs. A New Transformer Language Model for Pathology Domain" </a> American Medical Informatics Association (AMIA) Annual Symposium (2022)
+
+- <a href="https://www.sciencedirect.com/science/article/pii/S2153353922000037">Thiago Santos, Amara Tariq, Judy Wawira Gichoya, Hari Trivedi, and Imon Banerjee. "Automatic Classification of Cancer Pathology Reports: A Systematic Review" </a> Journal of Pathology Informatics(JPI)(2022)
+
 - <a href="https://arxiv.org/">Thiago Santos, Rishav Dhar, Amara Tariq, Elizabeth Anne Krupinski, Erin E Grady, and Imon Banerjee. "An  Auto-mated  NLP  Tool  to  Rank  Applications  for  Diagnostic  Radiology  Residency:  Utility  for  Understanding  Elements  Associatedwith Selection for Interview" </a> Under Revision
 
 

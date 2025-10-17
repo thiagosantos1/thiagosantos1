@@ -5,7 +5,7 @@
 
 ## I am an Artificial Intelligence Engineer 
 
-
+<br />
 
 ### Languages and Tools:
 
@@ -27,7 +27,6 @@
 
 ---
 
-![snake gif](https://github.com/thiagosantos1/thiagosantos1/blob/output/github-contribution-grid-snake.svg)
 
 ### 👨🏻‍🔬 Scientific Publications
 
